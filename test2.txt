@@ -1,1 +1,1 @@
-this is new branch file
+this is new branch file for branch test2
